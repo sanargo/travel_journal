@@ -1,0 +1,19 @@
+.header {
+  height: 55px;
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 7px;
+  color: whitesmoke;
+  background-color: #f55a5a;
+}
+
+.header > img {
+  width: 24px;
+  object-fit: contain;
+}
+
+.header > p {
+  font-size: 1rem;
+}
